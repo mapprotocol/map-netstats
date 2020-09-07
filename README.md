@@ -16,7 +16,7 @@ Make sure you have node.js and npm installed.
 Clone the repository and install the dependencies
 
 ```bash
-git https://github.com/marcopoloprotocol/map-netstats
+git clone https://github.com/marcopoloprotocol/map-netstats
 cd map-netstats
 npm install
 sudo npm install -g grunt-cli
